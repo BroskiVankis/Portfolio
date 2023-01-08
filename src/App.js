@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Projects from './Projects';
 import SocialProfiles from "./SocialProfiles";
-import profilePic from './assets/profilePic.PNG';
+import profilePic from './assets/profile_pic.png';
 
 class App extends Component {
     state = { displayBio: false };
