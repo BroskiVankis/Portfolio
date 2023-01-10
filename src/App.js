@@ -1,7 +1,10 @@
 import React, { Component } from "react";
 import Projects from './Projects';
 import SocialProfiles from "./SocialProfiles";
+<<<<<<< HEAD
 import Title from "./Title";
+=======
+>>>>>>> 925c8ccffe9eae10dde3b36830cea821803829b5
 import profilePic from './assets/profile_pic.png';
 
 class App extends Component {
